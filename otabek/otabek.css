@@ -32,6 +32,6 @@
 
 .boskid:nth-child(2){
     background-color: chocolate;
-    grid-column: 3/5;
+    grid-column: 3/6;
     grid-row: 1/3;
 }
